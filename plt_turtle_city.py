@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep 20 00:37:37 2017
-
+Take a look at this code ... A new student coming on has a hard time since there is no comments or documentation.
 @author: xiaojian
 """
 from mpl_toolkits.basemap import Basemap  
